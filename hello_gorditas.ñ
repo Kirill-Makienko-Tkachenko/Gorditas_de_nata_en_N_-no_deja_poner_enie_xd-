@@ -1,0 +1,10 @@
+// Función de la biblioteca estándar
+externo ent escribe(nat8* texto);
+
+// Inicio del programa
+público ent inicia()
+{
+  escribe("¡Gorditas de Nataaaaaaaaaaaaaaaaaaaa!\n");
+
+  devuelve 0;
+}
